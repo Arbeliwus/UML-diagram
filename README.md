@@ -37,10 +37,12 @@
 
 1) 關聯關係
 描述了類別的結構之間的關係，具有方向、名字、角色和多重性等資訊。
+
 ![](https://img-blog.csdnimg.cn/2018120212300185.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Vsc2ExNQ==,size_16,color_FFFFFF,t_70)
+
 一般的關聯關係語意較弱，也有兩種語意較強，分別是聚合和組合
 
-2) 泛化關係
+3) 泛化關係
 在物件導向中一般稱為繼承關係，存在於父類別與子類別、父介面與子介面
 ![](https://img-blog.csdnimg.cn/20181202123747195.png)
 
