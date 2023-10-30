@@ -27,10 +27,11 @@
 
 3) 抽象類
 不能被實例化的類，一般至少包含一個抽像操作，與類別圖的主要差異在於抽象類別的名稱、方法為斜體。
-![]{https://img-blog.csdnimg.cn/20181202114551212.png}
+![](https://img-blog.csdnimg.cn/20181202114551212.png)
 
 4) 模板類
 一種參數化的類，在編譯時把模板參數綁定到不同的資料型別，產生不同的類。
+
 ![](https://img-blog.csdnimg.cn/20181202114723341.png)
  ### 類的關係
 
@@ -42,11 +43,15 @@
 2) 泛化關係
 在物件導向中一般稱為繼承關係，存在於父類別與子類別、父介面與子介面
 ![](https://img-blog.csdnimg.cn/20181202123747195.png)
+
 ![](https://img-blog.csdnimg.cn/2018120212383192.png)
-5.3實現關係
+
+3) 實現關係
 對應於類別和介面之間的關係
+
 ![](https://img-blog.csdnimg.cn/20181202123938258.png)
-5.4依賴關係UML類別圖依賴關係是一種使用關係，特定事物的改變有可能會影響到使用該事物的事物，反之不成立。在你想要顯示一個事物使用另一個事物時使用，兩個元素之間的一種關係，其中一個元素（服務者）的變化將影響另一個元素（客戶），或向它（客戶）提供所需資訊.
+
+5) 依賴關係UML類別圖依賴關係是一種使用關係，特定事物的改變有可能會影響到使用該事物的事物，反之不成立。在你想要顯示一個事物使用另一個事物時使用，兩個元素之間的一種關係，其中一個元素（服務者）的變化將影響另一個元素（客戶），或向它（客戶）提供所需資訊.
 
 ### 類圖心智圖
 ![](https://img-blog.csdnimg.cn/20181202213337549.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Vsc2ExNQ==,size_16,color_FFFFFF,t_70)
@@ -56,10 +61,9 @@
 1) 什麼是對象圖
 物件圖也是靜態圖的一種，但是物件圖描述一個系統在某個時刻的靜態結構，顯示的是物件與物件之間的關係，而類別圖描述所有可能的情況。
 
-       物件圖是類別圖的實例，只有物件而無類別的類別圖就是物件圖。物件圖有生命週期因此物件圖只能在系統某一時段存在。物件圖作為系統在某一時刻的快照，是類別圖中的各個類別在某一個時間點上的實例及其關係的靜態寫照。
 2) 繪製對象圖
 ![](https://img-blog.csdnimg.cn/20181205200304898.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Vsc2ExNQ==,size_16,color_FFFFFF,t_70)
 
 
-# 參考網站:https://blog.csdn.net/Elsa15/article/details/84700651
+### 參考網站:https://blog.csdn.net/Elsa15/article/details/84700651
 
