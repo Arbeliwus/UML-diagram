@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" modified="2023-10-30T16:49:55.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_Wpsqk-Zb7p5on5lrzZa" version="22.0.8" type="device">
+  <diagram name="第 1 页" id="GJFGfv8sMaepA3v-LdVk">
+    <mxGraphModel dx="794" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qb-XNIGhJPGCuOjlUgBg-1" target="qb-XNIGhJPGCuOjlUgBg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qb-XNIGhJPGCuOjlUgBg-1" target="qb-XNIGhJPGCuOjlUgBg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qb-XNIGhJPGCuOjlUgBg-1" target="qb-XNIGhJPGCuOjlUgBg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qb-XNIGhJPGCuOjlUgBg-1" target="qb-XNIGhJPGCuOjlUgBg-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-1" value="703:card&lt;br&gt;no&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-2" value="big mom:&lt;br&gt;學生&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qb-XNIGhJPGCuOjlUgBg-4" target="qb-XNIGhJPGCuOjlUgBg-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-4" value="喬八:&lt;br&gt;一般用戶&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qb-XNIGhJPGCuOjlUgBg-11" target="qb-XNIGhJPGCuOjlUgBg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-11" value="索隆:&lt;br&gt;操作員&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qb-XNIGhJPGCuOjlUgBg-14" target="qb-XNIGhJPGCuOjlUgBg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-14" value="路飛:&lt;br&gt;管理員&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-17" value="703上機:&lt;br&gt;online&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-19" value="703:&lt;br&gt;充值&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qb-XNIGhJPGCuOjlUgBg-21" value="今日帳單:&lt;br&gt;CheceDay&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
