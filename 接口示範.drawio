@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" modified="2023-10-31T05:18:54.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="mkIM7EnWhjpR3iqM7GJI" version="22.0.8" type="device">
+  <diagram name="第 1 页" id="idyHgsPYpyyb2DDPlusx">
+    <mxGraphModel dx="1050" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tjDK2ybCts229Wxdpnuc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#C73500;dashed=1;endArrow=block;endFill=0;strokeWidth=1;endSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#fa6800;" parent="1" source="tjDK2ybCts229Wxdpnuc-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="266" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="345" y="311" />
+              <mxPoint x="436" y="311" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjDK2ybCts229Wxdpnuc-13" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;唐老鴨&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+講話()&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#C73500;fontColor=#000000;fillColor=#fa6800;" parent="1" vertex="1">
+          <mxGeometry x="289" y="355.02" width="112" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="tjDK2ybCts229Wxdpnuc-16" value="" style="line;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="289" y="376.02" width="112" height="7.93" as="geometry" />
+        </mxCell>
+        <mxCell id="tjDK2ybCts229Wxdpnuc-17" value="" style="line;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="289" y="390.02" width="112" height="7.93" as="geometry" />
+        </mxCell>
+        <mxCell id="tjDK2ybCts229Wxdpnuc-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#C73500;endArrow=none;endFill=0;dashed=1;fillColor=#fa6800;" parent="1" source="tjDK2ybCts229Wxdpnuc-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="436" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjDK2ybCts229Wxdpnuc-18" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;接口&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&amp;nbsp;棒棒糖表示法&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&amp;nbsp;圓圈旁為接口名稱&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&amp;nbsp;接口方法在實現類中出現&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#C73500;fontColor=#000000;fillColor=#fa6800;size=16;align=left;" parent="1" vertex="1">
+          <mxGeometry x="514" y="339" width="166" height="81.97" as="geometry" />
+        </mxCell>
+        <mxCell id="tjDK2ybCts229Wxdpnuc-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;strokeColor=#C73500;fillColor=#fa6800;" parent="1" source="tjDK2ybCts229Wxdpnuc-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179" y="266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjDK2ybCts229Wxdpnuc-22" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;接口&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&amp;nbsp;矩形表示法，頂端有&lt;/span&gt;interface&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;第一行:接口名稱&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;第二行:接口方法&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#C73500;fontColor=#000000;fillColor=#fa6800;size=16;align=left;" parent="1" vertex="1">
+          <mxGeometry x="42" y="346.52" width="197" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="tjDK2ybCts229Wxdpnuc-30" value="&lt;p style=&quot;border-color: var(--border-color); margin: 6px 0px 0px;&quot;&gt;interface&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 6px 0px 0px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;說人話&lt;/b&gt;&lt;/p&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=48;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#C73500;fontColor=#000000;fillColor=#fa6800;" parent="1" vertex="1">
+          <mxGeometry x="381" y="192" width="108" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="tjDK2ybCts229Wxdpnuc-31" value="&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;+ 講話()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;" style="text;strokeColor=#C73500;fillColor=#fa6800;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="tjDK2ybCts229Wxdpnuc-30" vertex="1">
+          <mxGeometry y="48" width="108" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tjDK2ybCts229Wxdpnuc-34" value="&lt;p style=&quot;border-color: var(--border-color); margin: 6px 0px 0px;&quot;&gt;interface&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 6px 0px 0px;&quot;&gt;飛翔&lt;/p&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=48;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#C73500;fontColor=#000000;fillColor=#fa6800;" parent="1" vertex="1">
+          <mxGeometry x="123" y="192" width="108" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="tjDK2ybCts229Wxdpnuc-35" value="&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;+ 飛()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;" style="text;strokeColor=#C73500;fillColor=#fa6800;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="tjDK2ybCts229Wxdpnuc-34" vertex="1">
+          <mxGeometry y="48" width="108" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
